@@ -1,5 +1,5 @@
 # USAGE
-# python3 test_network.py
+# python3 test_network.py/ python test_network.py
 
 # import the necessary packages
 from keras.preprocessing.image import img_to_array
