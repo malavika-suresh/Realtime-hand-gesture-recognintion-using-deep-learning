@@ -16,7 +16,7 @@ This project recognizes the hand gestures of a person in real-time from the vide
 
 7) mask.model - trained LeNet model saved to disk
 
-USAGE:
+USAGE:-
 python3 main.py
 
 Note: If you are using anything from this repository please consider citing - Malavika Suresh, Avigyan Sinha, Aneesh R P, "Real-Time Hand Gesture Recognition Using Deep Learning", International Journal of Innovations and Implementations in Engineering(ISSN 2454- 3489), 2019, vol 1 
