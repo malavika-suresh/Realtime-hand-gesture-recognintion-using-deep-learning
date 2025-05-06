@@ -44,23 +44,23 @@ Make sure your webcam is connected, then run:
 📷 Testing the Model
 - To test the model using sample images in the images/ folder:
 
-    python3 test_network.py
+        python3 test_network.py
 
 - Ensure that the folder contains valid gesture images.
 
 🛠️ Troubleshooting
 
-    Ensure correct paths for dataset, images, and model files.
+    - Ensure correct paths for dataset, images, and model files.
     
-    Use clear, well-lit hand gestures for better recognition.
+    - Use clear, well-lit hand gestures for better recognition.
     
     For low accuracy:
-    
-    Increase the dataset size
-    
-    Improve image quality
-    
-    Tune network hyperparameters or retrain
+            
+            Increase the dataset size
+            
+            Improve image quality
+            
+            Tune network hyperparameters or retrain
 
 📚 Citation
 If you use this project in your work, please cite:
@@ -68,6 +68,8 @@ If you use this project in your work, please cite:
       Malavika Suresh, Avigyan Sinha, Aneesh R P,
       “Real-Time Hand Gesture Recognition Using Deep Learning”,
       International Journal of Innovations and Implementations in Engineering (ISSN 2454-3489), 2019, Vol. 1.
+
+
 
       @article{malavika2019gesture,
         title={Real-Time Hand Gesture Recognition Using Deep Learning},
