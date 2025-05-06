@@ -38,7 +38,9 @@ Make sure your webcam is connected, then run:
 
 🧪 Training the Model
 - To train the CNN from scratch:
-    python3 train_network.py
+
+        python3 train_network.py
+
 - The trained model will be saved as mask.model.
 
 📷 Testing the Model
