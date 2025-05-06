@@ -12,13 +12,14 @@ A classic **LeNet architecture** (defined in `lenet.py`) is used for gesture cla
 ---
 
 ## 📁 Project Structure
-├── lenet.py # LeNet CNN architecture
-├── train_network.py # Trains the model and saves it as mask.model
-├── test_network.py # Tests the trained model on sample images
-├── main.py # Real-time gesture recognition via webcam
-├── dataset/ # Training dataset for 9 hand gestures
-├── images/ # Sample gesture images for testing
-├── mask.model # Saved trained model
+
+    ├── lenet.py # LeNet CNN architecture
+    ├── train_network.py # Trains the model and saves it as mask.model
+    ├── test_network.py # Tests the trained model on sample images
+    ├── main.py # Real-time gesture recognition via webcam
+    ├── dataset/ # Training dataset for 9 hand gestures
+    ├── images/ # Sample gesture images for testing
+    ├── mask.model # Saved trained model
 
 
 ### 🔧 Requirements
